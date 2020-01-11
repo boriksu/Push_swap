@@ -13,6 +13,6 @@ The project consists of two programs:
 - **push_swap** : the output of the program is a list of instructions for sorting.
 - **checker** : read the instructions and execute them; it sends "OK" to stdin if stack **a** is correctly sorted, otherwise it sends "KO".
 ```
-> ./push_swap [args ...]
-> ./checker [-vcf] [args ...]
+> ./push_swap [argv ...]
+> ./checker [-vcf] [argv ...]
  ```
